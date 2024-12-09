@@ -11,19 +11,19 @@
 
 @font-face {
     font-family: JakartaSansRegular;
-    src: url(_default_assets/fonts/JakartaSans/PlusJakartaSans-Regular.ttf);
+    src: url(default_assets/fonts/JakartaSans/PlusJakartaSans-Regular.ttf);
 }
 @font-face {
     font-family: JakartaSansMedium;
-    src: url(_default_assets/fonts/JakartaSans/PlusJakartaSans-Medium.ttf);
+    src: url(default_assets/fonts/JakartaSans/PlusJakartaSans-Medium.ttf);
 }
 @font-face {
     font-family: JakartaSansSemiBold;
-    src: url(_default_assets/fonts/JakartaSans/PlusJakartaSans-SemiBold.ttf);
+    src: url(default_assets/fonts/JakartaSans/PlusJakartaSans-SemiBold.ttf);
 }
 @font-face {
     font-family: JakartaSansBold;
-    src: url(_default_assets/fonts/JakartaSans/PlusJakartaSans-Bold.ttf);
+    src: url(default_assets/fonts/JakartaSans/PlusJakartaSans-Bold.ttf);
 }
 .normal-text{
     line-height: 1.85rem;
